@@ -1,1 +1,4 @@
 # auction
+Controllers
+Views
+Model
